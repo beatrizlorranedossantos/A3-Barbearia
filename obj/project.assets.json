@@ -2831,19 +2831,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joao Vitor\\.nuget\\packages\\": {}
+    "C:\\Users\\Flavia Santos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao Vitor\\Desktop\\BarbeariaProjeto\\BarbeariaProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\Flavia Santos\\Projeto-A3-Barbearia\\BarbeariaProjeto.csproj",
       "projectName": "BarbeariaProjeto",
-      "projectPath": "C:\\Users\\Joao Vitor\\Desktop\\BarbeariaProjeto\\BarbeariaProjeto.csproj",
-      "packagesPath": "C:\\Users\\Joao Vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao Vitor\\Desktop\\BarbeariaProjeto\\obj\\",
+      "projectPath": "C:\\Users\\Flavia Santos\\Projeto-A3-Barbearia\\BarbeariaProjeto.csproj",
+      "packagesPath": "C:\\Users\\Flavia Santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Flavia Santos\\Projeto-A3-Barbearia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joao Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Flavia Santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
